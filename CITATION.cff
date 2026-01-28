@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lattanzi"
+    given-names: "Pamela"
+    affiliation: "CNR-IRBIM"
+    orcid: "https://orcid.org/0000-0002-3643-2126" # Replace with your ORCID if you have one
+  - family-names: "Vasapollo"
+    given-names: "Claudio"
+  - family-names: "Samarão"
+    given-names: "Jorge"
+  - family-names: "Galdelli"
+    given-names: "Adriano"
+  - family-names: "Mendo"
+    given-names: "Tania"
+  - family-names: "Rufino"
+    given-names: "Marta"
+  - family-names: "Bolognini"
+    given-names: "Luca"
+  - family-names: "Tassetti"
+    given-names: "Anna Nora"
+title: "Data and Code for 'Predicting Fishing vs. Not-Fishing in Small-Scale Fisheries: a Sample Vessel Tracking Dataset and a Reproducible Machine Learning Approach'"
+version: 2.0.0
+doi: 10.5281/zenodo.14765624
+date-released: 2026-01-28
+url: "https://github.com/PamelaLattanzi/softwarex_paper"

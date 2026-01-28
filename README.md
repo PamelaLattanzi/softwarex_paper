@@ -45,6 +45,7 @@ To allow readers testing the Jupyter Notebook immediately, the output file from 
 To allow readers testing the Jupyter Notebook immediately, the output file from "1_predict_activity_status_parallel.py" is provided as this RDS file (for the "Generating the ROC curves" and "Mapping models' predictions of *fishing/not_fishing* for each trip" chunks). <br>
 
 ## Citation <br>
-For any queries, you can contact the corresponding author, Pamela Lattanzi (pamela.lattanzi@irbim.cnr.it). <br>
-If you use this work, please cite it as follows: <br>
-Lattanzi, P., Vasapollo, C., Samarão, J., Galdelli, A., Mendo, T., Rufino, M., Bolognini, L., & Tassetti, A. N. (2025). Data for "Predicting Fishing vs. Not-Fishing in Small-Scale Fisheries: a Sample Vessel Tracking Dataset and a Reproducible Machine Learning Approach" [Computer software]. GitHub. https://github.com/PamelaLattanzi/softwarex_paper  
+For any queries, you can contact the corresponding author, **Pamela Lattanzi** (pamela.lattanzi@irbim.cnr.it).
+If you use this work, please cite it as follows:
+> Lattanzi, P., Vasapollo, C., Samarão, J., Galdelli, A., Mendo, T., Rufino, M., Bolognini, L., & Tassetti, A. N. (2025). Data and Code for "Predicting Fishing vs. Not-Fishing in Small-Scale Fisheries: a Sample Vessel Tracking Dataset and a Reproducible Machine Learning Approach" [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.14765624
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14765624.svg)](https://doi.org/10.5281/zenodo.14765624)

@@ -1,0 +1,22 @@
+# Core data manipulation and scientific computing
+numpy==2.2.3
+pandas==2.2.3
+scipy==1.15.2
+
+# Machine Learning
+scikit-learn==1.6.1
+xgboost==3.0.2
+imbalanced-learn==0.13.0
+
+# Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Model Interpretation
+shap==0.47.2
+
+# Data Loading
+pyreadr==0.5.2
+
+# Progress bars
+tqdm==4.67.1

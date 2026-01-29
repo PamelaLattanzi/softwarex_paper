@@ -47,5 +47,5 @@ To allow readers testing the Jupyter Notebook immediately, the output file from 
 ## Citation <br>
 For any queries, you can contact the corresponding author, **Pamela Lattanzi** (pamela.lattanzi@irbim.cnr.it).
 If you use this work, please cite it as follows:
-> Lattanzi, P., Vasapollo, C., Samarão, J., Galdelli, A., Mendo, T., Rufino, M., Bolognini, L., & Tassetti, A. N. (2025). Data and Code for "Predicting Fishing vs. Not-Fishing in Small-Scale Fisheries: a Sample Vessel Tracking Dataset and a Reproducible Machine Learning Approach" [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.14765624
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14765624.svg)](https://doi.org/10.5281/zenodo.14765624)
+> Lattanzi, P., Vasapollo, C., Samarão, J., Galdelli, A., Mendo, T., Rufino, M., Bolognini, L., & Tassetti, A. N. (2025). Data and Code for "Predicting Fishing vs. Not-Fishing in Small-Scale Fisheries: a Sample Vessel Tracking Dataset and a Reproducible Machine Learning Approach" [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18407451
+[![DOI](https://zenodo.org/badge/1052624957.svg)](https://doi.org/10.5281/zenodo.18407451)
